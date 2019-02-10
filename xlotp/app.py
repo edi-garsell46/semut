@@ -49,10 +49,10 @@ semut=(gt+"""
       # #       #     # #     #    #    
 #     # #       #     # #     #    #    
  #####  ####### #     #  #####     # 
-Mod : www.gebangkiidiw.com 
+MOD : Siti Aisyah 
  =================================
 """)
-l="Harap tunggu.."
+l="Loading Harap tunggu.."
 
 def main_menu():
     clear()
@@ -103,7 +103,7 @@ def menu_1():
     print (p+" 10.Xtra kuota waze & chat 3day 1000")
     print (p+" 11.xtra kuota waze & chat 1day 500")
     print (p+" 12.Manual service id")
-    pkt = str(input("Pilih Sesuai Keinginan >> "))
+    pkt = str(input("SILAHKAN PILIH SESUAI KE INGINAN ANDA >> "))
     
     if pkt == '1':
         i = '8110577'
@@ -130,7 +130,7 @@ def menu_1():
     elif pkt == '12':
         i = str(input("Service ID Paket👉"))
     else:
-        print("Pilihan gak tercantum")
+        print("PILIHAN TIDAK TERCANTUM")
     lodprint(l)
     serviceid = i
     xl = XL(msisdn)

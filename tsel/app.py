@@ -49,7 +49,7 @@ semut=(gt+"""
  #####  ####### #     #  #####     #    
  =================================
 """)
-l="Harap tunggu.."
+l="Loading Harap tunggu.."
 
 def main_menu():
     clear()

@@ -49,7 +49,7 @@ semut=(gt+"""
       # #       #     # #     #    #    
 #     # #       #     # #     #    #    
  #####  ####### #     #  #####     # 
-MOD : Edi Garsell
+MOD: WWW.FACEBOOK.COM/WINDOWS7.HTMLX1
  =================================
 """)
 l="Loading Harap tunggu.."

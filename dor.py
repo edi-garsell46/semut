@@ -57,8 +57,8 @@ def slowprint(s):
 def main_menu():
        clear()
        slowprint(W + '#'*45)
-       slowprint(W + '     -== '+gt+'Menu Termos Kumpul4semut'+W+' ==-')
-       slowprint(W + '     -==== '+gt+'EDI GARSEL'+W+' ====-')
+       slowprint(W + '     -== '+gt+'Menu Termux Kumpulan semut'+W+' ==-')
+       slowprint(W + '     -==== '+gt+'WELCOME BY EDI GARSEL'+W+' ====-')
        slowprint(W + '#'*45)
        print(W + '# ' + str(time.strftime('%a, %d %B %Y')))
        print(W + '# Provider gsm Operator ' + C + str(os.popen('getprop gsm.operator.alpha').read().split('\n')[0]))

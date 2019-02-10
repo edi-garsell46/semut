@@ -49,7 +49,7 @@ semut=(gt+"""
       # #       #     # #     #    #    
 #     # #       #     # #     #    #    
  #####  ####### #     #  #####     # 
-MOD : Siti Aisyah 
+MOD : Edi Garsell
  =================================
 """)
 l="Loading Harap tunggu.."
